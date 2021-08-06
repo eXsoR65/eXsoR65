@@ -22,5 +22,5 @@
 #### Connect with me on Twitter
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_eXsoR)](https://twitter.com/_eXsoR)
-##### You can also find me in TechnoTim's Discord
+#### You can also find me in TechnoTim's Discord
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/DJKexrJ)
