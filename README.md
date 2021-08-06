@@ -9,6 +9,7 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
@@ -21,3 +22,6 @@
 #### Connect with me on Twitter
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_eXsoR)
+
+You can also find me in TechnoTim's Discord
+![https://discord.gg/DJKexrJ](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
