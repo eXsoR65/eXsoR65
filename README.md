@@ -2,7 +2,7 @@
 
 ## I'm a System Administrator and I technology enthusiast
 
-- I love to contribute to Open Source projects and document the work I done.
+- I love to contribute to Open Source projects and document the work I've done.
 
 ### Connect with me
 
