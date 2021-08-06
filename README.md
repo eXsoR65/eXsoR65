@@ -18,9 +18,6 @@
   <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
 </P>
 
-#### Connect with me
-[<img align="left" alt="eXsoR | Twitter" width="22px" src=".\twitter_icon.svg" />][twitter]
-[<img align="left" alt="eXsoR | LinkedIn" width="22px" src=".\linkedin_icon.svg" />][linkedin]
+#### Connect with me on Twitter
 
-[twitter]: https://twitter.com/_eXsoR
-[linkedin]: https://linkedin.com/in/eXsoR
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_eXsoR)
