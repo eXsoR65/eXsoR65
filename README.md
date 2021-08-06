@@ -1,11 +1,11 @@
-## Hi, I'm Xavier - aka eXsoR 👋
+## Hi 👋, I'm Xavier - aka eXsoR
 
 #### I'm a System Administrator and a Technology Enthusiast
 
 - I ❤️ to contribute to Open Source projects and document the work I've done.
 
 #### Tools and Technologies I use
-<p>
+<p align="left">
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -19,8 +19,15 @@
   <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
 </P>
 
-#### Connect with me on Twitter
+#### Connect with me
+<p align="left">
+  <a href="https://twitter.com/_eXsoR" target="_blank">
+    <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2F_eXsoR" alt="eXsoR" />
+  </a>
+  <a href="https://linkedin.com/in/exsor/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0077b5?logo=linkedin&link=https://linkedin.com/in/exsor" alt="eXsoR"/>
+  </a>
+</p>
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_eXsoR)](https://twitter.com/_eXsoR)
 #### You can also find me in TechnoTim's Discord
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/DJKexrJ)
