@@ -1,8 +1,8 @@
 ## Hi, I'm Xavier - aka eXsoR 👋
 
-#### I'm a System Administrator and a technology enthusiast
+#### I'm a System Administrator and a Technology Enthusiast
 
-- I ❤️ to contribute to Open Source projects and document the work I done.
+- I ❤️ to contribute to Open Source projects and document the work I've done.
 
 #### Tools and Technologies I use
 <p>
