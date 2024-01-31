@@ -21,9 +21,6 @@
 
 #### Connect with me
 <p align="left">
-  <a href="https://twitter.com/_eXsoR" target="_blank">
-    <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2F_eXsoR" alt="eXsoR" />
-  </a>
   <a href="https://linkedin.com/in/exsor/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0077b5?logo=linkedin&link=https://linkedin.com/in/exsor" alt="eXsoR"/>
   </a>
