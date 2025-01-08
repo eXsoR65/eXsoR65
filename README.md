@@ -6,7 +6,6 @@
 
 #### Tools and Technologies I use
 <p align="left">
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" />
