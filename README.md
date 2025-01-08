@@ -20,5 +20,12 @@
   <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
 </P>
 
+#### Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/xavierr65/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0077b5?logo=linkedin&link=https://linkedin.com/in/exsor" alt="eXsoR"/>
+  </a>
+</p>
+
 #### You can find me hanging out in TechnoTim's Discord
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/DJKexrJ)
