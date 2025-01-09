@@ -27,4 +27,4 @@
 </p>
 
 #### You can find me hanging out in TechnoTim's Discord
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/DJKexrJ)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/technotim)
